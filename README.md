@@ -6,5 +6,5 @@ Wait until finished!
 
 ## To-do
 
-- [] fetch from url
-- [] convert webp to png
+- [ ] fetch from url
+- [ ] convert webp to png
